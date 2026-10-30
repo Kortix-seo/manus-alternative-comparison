@@ -1,6 +1,6 @@
-# Manus alternatives, compared: Kortix, the open-source AI Operating System
+# Manus alternatives, compared: Kortix, the open-source CompanyOS
 
-This repo answers one question for a developer weighing Manus against an agent platform you can own: what does each option actually give you, and which parts stay in someone else's account? Kortix is the open-source AI Operating System, where your agents, their skills, your company memory, and every connector live in one git repo you own, and each session runs on its own cloud computer. The comparison below is built from Manus's own live pages and from each open-source project's own repo or site, checked October 2026.
+This repo answers one question for a developer weighing Manus against an agent platform you can own: what does each option actually give you, and which parts stay in someone else's account? Kortix is the open-source CompanyOS, where your agents, their skills, your company memory, and every connector live in one git repo you own, and each session runs on its own cloud computer. The comparison below is built from Manus's own live pages and from each open-source project's own repo or site, checked October 2026.
 
 Manus is a hosted product: an "action engine" that creates slides, websites, games, video, and design work, with a browser operator, Wide Research, Mail Manus, a Slack integration, and Automations. Its pages list a Team plan with SSO and an API, and a set of credit-based monthly tiers. Nothing on its pages offers a self-host path.
 
@@ -21,7 +21,7 @@ The code behind the Kortix column is open, so you can read, fork, and audit it o
 
 ## The open-source field next to Manus
 
-Kortix is the open-source AI Operating System: agents, skills, memory, and connectors in one git repo you own. [Kortix on GitHub](https://github.com/kortix-ai/suna)
+Kortix is the open-source CompanyOS: agents, skills, memory, and connectors in one git repo you own. [Kortix on GitHub](https://github.com/kortix-ai/suna)
 
 The other projects in this repo each cover a slice of the same ground, so you can see where the category splits:
 
